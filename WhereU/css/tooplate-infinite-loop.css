@@ -12,6 +12,7 @@ body {
 a {
   transition: all 0.3s ease;
   color: darkgreen;
+  font-size: 15px;
 }
 
 a:hover,
